@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Engineering student at Chitkara University (BE, expected January 2027) with a strong academic record (8.16 CGPA as of December 2025). Passionate about open source development, cybersecurity, and leadership in tech communities. Currently serving as Mentor and Former Cybersecurity Head at Open Source Chandigarh and Secretary of the IEEE-CIET Computer Society, with prior experience as a Technical Executive at IEEE CIET Student Branch. Demonstrates strong technical, organizational, and collaborative skills, with a commitment to innovation and community-driven learning
+Computer Science Engineering student at Chitkara University (BE, expected August 2027) with a strong academic record (8.16 CGPA as of December 2025). Passionate about open source development, cybersecurity, and leadership in tech communities. Currently serving as Mentor and Former Cybersecurity Head at Open Source Chandigarh and Secretary of the IEEE-CIET Computer Society, with prior experience as a Technical Executive at IEEE CIET Student Branch. Demonstrates strong technical, organizational, and collaborative skills, with a commitment to innovation and community-driven learning
 
 
 ## 🌐 Socials:
